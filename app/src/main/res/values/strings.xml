@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArcGaugeTest</string>
+    <string name="title_gauge">Gauge</string>
+    <string name="title_info">Info</string>
+</resources>
